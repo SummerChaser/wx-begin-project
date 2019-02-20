@@ -1,0 +1,5 @@
+<!--my-test-page.wxml-->
+<text>my-test-page.wxml</text>
+
+<image src='/images/icon/star.png'></image>
+<image src='/images/icon/none-star.png '></image>

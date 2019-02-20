@@ -1,0 +1,92 @@
+/* pages/posts/post-detail-test.wxss */
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.img-head {
+  width: 100%;
+  height: 460rpx;
+}
+
+.autor-name {
+  margin-top: 26px;
+  margin-left: 6px;
+  margin-right: 4px;
+  font-size: 28rpx;
+}
+
+.autor-info {
+  display: flex;
+  flex-direction: row;
+}
+
+.autor {
+  margin-top: 26px;
+  margin-left: 10px;
+  font-size: 24rpx;
+
+}
+.autor-img {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 100rpx;
+  height: 100rpx;
+}
+.title {
+  margin-left: 40rpx;
+  font-size: 36rpx;
+  font-weight: 700;
+  margin-top: 30rpx;
+  letter-spacing: 1px;
+  color: #4b556c;
+}
+
+
+.circle-img {
+  float: right;
+  margin-right: 40rpx;
+  vertical-align: middle;
+}
+
+.circle-img Image {
+  width: 90rpx;
+  height: 90rpx;
+}
+
+.share-img {
+  margin-left: 30rpx;
+}
+
+.horizon {
+  width: 660rpx;
+  height: 2px;
+  background-color: #e5e5e5;
+  vertical-align: middle;
+  position: relative;
+  top: 46rpx;
+  margin: 0 auto;
+  z-index: -99;
+}
+
+.detail {
+  color: #666;
+  margin-left: 40rpx;
+  margin-top: 20rpx;
+  margin-right: 30rpx;
+  line-height: 44rpx;
+  letter-spacing: 1px;
+  font-size: 13px;
+}
+
+
+
+
+
+
+
+
+
+
+

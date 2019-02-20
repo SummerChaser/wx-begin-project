@@ -1,0 +1,7 @@
+<view class="container">
+    <image class="avatar" src="/images/avatar/my_icon.jpg"></image>
+    <text class="motto">一只上弦酱QwQ</text>
+    <view class="journey-container" bindtap="onTap">
+        <text class="journey">进入小程序</text>
+    </view>
+</view>
